@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ayushmaan Negi</h1>
-<h3 align="center">Aspiring Cyber security Professional</h3>
+<h3 align="center">Cybersecurity Enthusiast with a Passion for Ethical Hacking</h3>
 
+---
 
+- 🔒 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Network Defense**
+- 💻 Comfortable coding in **Python** and **Java**
+- 🧰 Hands-on with tools like **Nmap**, **Wireshark**, **Burp Suite**, **SQLMap**, and other **penetration testing frameworks**
+- 📚 Constantly learning and exploring new exploits, securing systems, and analyzing traffic
+- 🚀 Working on mini-projects to automate security tasks and improve detection/response skills
+- 📫 Reach me at: **ayushmaanktd1@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+# 🧠 Skills & Tools
+💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> </p>
+🛡️ Cybersecurity & Pentesting
+<p> <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" /> <img src="https://img.shields.io/badge/Penetration%20Testing-430098?style=for-the-badge&logo=protonvpn&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Security-E34F26?style=for-the-badge&/> </p>
+🧰 Tools & Frameworks
+<p> <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-F57900?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge" /> </p>
+🔍 Key Concepts
+<p> <img src="https://img.shields.io/badge/Vulnerability%20Assessment-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Packet%20Analysis-ff69b4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web%20App%20Testing-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Reconnaissance-00ced1?style=for-the-badge" /> </p>
