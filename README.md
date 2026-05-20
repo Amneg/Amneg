@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ayushmaan Negi</h1>
-<h3 align="center">Cybersecurity Enthusiast with a Passion for Ethical Hacking</h3>
+<div align="center">
+
+# Ayushmaan Negi
+
+**Cybersecurity Enthusiast · Ethical Hacker · Python Developer**
+
+[![Email](https://img.shields.io/badge/ayushmaanktd1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushmaanktd1@gmail.com)
+[![GitHub](https://img.shields.io/badge/Amneg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amneg)
+
+</div>
 
 ---
 
-- 🔒 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Network Defense**
-- 💻 Comfortable coding in **Python** and **Java**
-- 🧰 Hands-on with tools like **Nmap**, **Wireshark**, **Burp Suite**, **SQLMap**, and other **penetration testing frameworks**
-- 📚 Constantly learning and exploring new exploits, securing systems, and analyzing traffic
-- 🚀 Working on mini-projects to automate security tasks and improve detection/response skills
-- 📫 Reach me at: **ayushmaanktd1@gmail.com**
+Cybersecurity student focused on offensive security, ethical hacking, and network defense. I build small automation tools, practice on CTF challenges, and constantly explore new attack surfaces and defensive techniques.
 
 ---
 
-# 🧠 Skills & Tools
-💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </p>
-🛡️ Cybersecurity & Pentesting
-<p> <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" /> <img src="https://img.shields.io/badge/Penetration%20Testing-430098?style=for-the-badge&logo=protonvpn&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Security-E34F26?style=for-the-badge&/> </p>
-🧰 Tools & Frameworks
-<p> <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-F57900?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge" /> </p>
-🔍 Key Concepts
-<p> <img src="https://img.shields.io/badge/Vulnerability%20Assessment-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Packet%20Analysis-ff69b4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web%20App%20Testing-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Reconnaissance-00ced1?style=for-the-badge" /> </p>
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F57900?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=flat-square&logo=sqlite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-4B8BBE?style=flat-square&logoColor=white)
+
+## Areas of Focus
+
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-430098?style=flat-square&logo=hackthebox&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-6A0DAD?style=flat-square)
+![Web App Security](https://img.shields.io/badge/Web%20App%20Security-E34F26?style=flat-square)
+![Packet Analysis](https://img.shields.io/badge/Packet%20Analysis-1679A7?style=flat-square)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-00897B?style=flat-square)
+![Network Defense](https://img.shields.io/badge/Network%20Defense-004170?style=flat-square)
+
+---
+
+## Certifications & Courses
+
+| Course | Institution | Status |
+|--------|-------------|--------|
+| [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard University | ✅ Completed |
+
+---
+
+<div align="center">
+<sub>Open to collaborations on security tools, CTF writeups, and Python projects.</sub>
+</div>
